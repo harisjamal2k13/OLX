@@ -1,0 +1,281 @@
+.container{
+    margin: 0 auto;
+    width: 1250px;
+}
+.top{
+    width: 900px;
+    margin: 50px 0 0 170px ;
+}
+h2{
+    float: left;
+    margin:40px 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', sans-serif;
+}
+img.logo{
+  position: relative;
+    right: 725px;
+}
+img.man{
+    width: 3%;
+    float: left;
+    position: relative;
+    left: 10px;
+    top: 45px;
+}
+h3{
+    float: left;
+    margin: 45px 0 0 50px;
+}
+button{
+    width: 165px;
+    height: 50px;
+    float: right;
+    position: relative;
+    bottom: 80px;
+    font-size: 120%;
+    border-radius: 5px;
+    color: white;
+    background: orangered;
+}
+.fields{
+    width: 900px;
+    height: 100px;
+    background-color: skyblue;
+    margin: 0 0 0 172px;
+    border-radius: 10px;
+ }
+ input.inp1{
+     width: 270px;
+     height: 35px;
+     float: left;
+     margin: 30px 20px;
+     border-radius: 10px;
+     background-image: url("nav.jpg");
+     background-repeat: no-repeat;
+     text-indent: 40px;
+     font-size: 110%;
+ }
+  input.inp2{
+     width: 420px;
+     height: 35px;
+     float: left;
+     margin: -18px 0px;
+     border-radius: 10px;
+     text-indent: 40px;
+     font-size: 110%;
+     background-image: url("search.png");
+     background-repeat: no-repeat;
+ }
+ button.search{
+     float: left;
+     width: 140px;
+     border-radius: 5px;
+     background: royalblue;
+     border: 5px solid white;
+     color: white;
+     position: relative;
+     top: -23px;
+     left: 10px;
+ }
+ div.tab{
+     width: 900px;
+     height: 345px;
+     margin: 0 171px;
+ }
+ table{
+     width: 600px;
+     margin: 1px 0px;
+     float: left;
+     border-collapse: collapse;
+ }
+ img.mob{
+     position: relative;
+     left: 47px;
+     bottom: 13px;
+     float: left;
+ }
+  img.EApp{
+     position: relative;
+     left: 43px;
+     bottom: 15px;
+     float: left;
+ }
+   img.Car{
+     position: relative;
+     left: 48px;
+     bottom: 15px;
+     float: left;
+ }
+    img.Bike{
+     position: relative;
+     left: 43px;
+     bottom: 15px;
+     float: left;
+ }
+    img.frnt{
+     position: relative;
+     left: 47px;
+     bottom: 15px;
+     float: left;
+    }
+    img.pets{
+     position: relative;
+     left: 51px;
+     bottom: 15px;
+     float: left;
+    }
+    img.books{
+     position: relative;
+     left: 43px;
+     bottom: 15px;
+     float: left;
+    }
+    img.fashion{
+     position: relative;
+     left: 43px;
+     bottom: 15px;
+     float: left;
+    }
+    img.kids{
+     position: relative;
+     left: 47px;
+     bottom: 15px;
+     float: left;
+    }img.services{
+     position: relative;
+     left: 43px;
+     bottom: 15px;
+     float: left;
+    }img.jobs{
+     position: relative;
+     left: 43px;
+     bottom: 15px;
+     float: left;
+    }img.property{
+     position: relative;
+     left: 43px;
+     bottom: 15px;
+     float: left;
+    }
+  td.td1{
+     width: 75px;
+     height: 110px;
+     border-right : 0.01px solid lightgray;
+     border-bottom : 0.01px solid lightgray;
+     text-align: center;
+     font-size: 80%;
+ }
+   td.td2{
+     width: 75px;
+     height: 110px;
+     border-right : 0.01px solid lightgray;
+     border-bottom : 0.01px solid lightgray;
+     text-align: center;
+     font-size: 80%;
+ }
+    td.td3{
+     width: 75px;
+     height: 110px;
+     border-right : 0.01px solid lightgray;
+     text-align: center;
+     font-size: 80%;
+ }
+ p{
+     position: relative;
+     top: 30px;
+     right: 25px;    
+ }
+div.greyarea{
+    width: 296px;
+    height: 336px;
+    border: 2px solid black;
+    float: left;
+    margin: 1px 0;
+    background-color: lightgray;
+    background-image: url("ad.jpg")
+}
+.banner{
+    width: 1215px;
+    height: 206px;
+    background-image: url("bg.png");
+    margin: 10px 16px;
+}
+img.ad1{
+    position: relative;
+    top: 36px;
+    left: 215px;
+    float: left;
+}
+img.ad2{
+    position: relative;
+    width: 150px;
+    height: 50px;
+    top: 115px;
+    left: -65px;
+    float: left;
+}
+img.ad3{
+    position: relative;
+    width: 170px;
+    height: 75px;
+    top: 102px;
+    left: -65px;
+    float: left;
+}
+.btm{
+    width: 900px;
+    height: 250px;
+    margin: 0 171px;
+    
+}
+img.logo-btm{
+    width: 7%;
+    float: left;
+    position: relative;
+    left: 40px;
+    top: 40px;
+}
+div.nav1{
+    width: 150px;
+    height: 230px;
+    margin: 10px 102px;
+    float: left;
+}
+div.nav2{
+    width: 150px;
+    height: 230px;
+    margin: 10px -95px;
+    float: left;
+}
+div.nav3{
+    width: 150px;
+    height: 230px;
+    margin: 10px 60px;
+    float: left;
+}
+ul{
+     list-style-type: none;
+}
+p.connect{
+    float: left;
+    position: relative;
+    top: 15px;
+    left: 40px;
+}
+img.fb{
+    width: 5%;
+    float: left;
+    border-radius: 50%;
+    position: relative;
+    top: 75px;
+    right: 70px;
+}
+img.tw{
+   width: 50px;
+   height: 45px;
+   float: left;
+   border-radius: 50%;
+    position: relative;
+    top: 75px;
+    right: 30px;
+}
